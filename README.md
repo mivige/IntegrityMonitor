@@ -1,6 +1,6 @@
 # File Integrity Monitor
 
-![Version](https://img.shields.io/badge/Version-0.1.0-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 ![Language](https://img.shields.io/badge/Language-PowerShell-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
 ---
